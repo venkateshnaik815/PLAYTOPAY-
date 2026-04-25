@@ -9,3 +9,4 @@ django-environ
 gunicorn
 whitenoise
 huey
+openpyxl
