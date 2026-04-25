@@ -1,0 +1,8 @@
+{
+  "name": "playtopay-monorepo",
+  "version": "1.0.0",
+  "description": "Root package.json for monorepo deployment",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build"
+  }
+}
